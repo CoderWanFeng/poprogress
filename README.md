@@ -14,7 +14,7 @@
 ## 📚简介
 
 
-poprogress是python自动化办公的小工具的代码合集。
+poprogress是给python程序增加进度条的小工具。
 
 -------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple poprogress -U
 
 | 序号 | 功能介绍  | 代码地址 |
 | ---- |---------------------------------------------------------------------| -------- |
-| 1    | [给程序加个进度条吧！1行Python代码，快速搞定~](https://www.bilibili.com/video/BV1cx4y1A7ZP)        | [源码](https://github.com/CoderWanFeng/poprogress/demo/1%E3%80%81simple_progress.py)     |
+| 1    | [给程序加个进度条吧！1行Python代码，快速搞定~](https://www.bilibili.com/video/BV1cx4y1A7ZP)        | [源码](https://github.com/CoderWanFeng/poprogress/blob/main/demo/1%E3%80%81simple_progress.py)     |
 
 
 
